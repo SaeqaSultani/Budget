@@ -1,16 +1,16 @@
 require 'rails_helper'
 
 RSpec.describe User, type: :model do
-    subject { User.new(name: "John Doe") }
+  subject { User.new(name: 'John Doe') }
 
-    before { subject.save }
+  before { subject.save }
 
-    it "should have a name" do
-        expect(subject.name).to eq("John Doe")
-    end
+  it 'should have a name' do
+    expect(subject.name).to eq('John Doe')
+  end
 
-    it 'name should be present' do
-        subject.name = nil
-        expect(subject).to_not be_valid
-      end
+  it 'name should be present' do
+    subject.name = nil
+    expect(subject).to_not be_valid
+  end
 end

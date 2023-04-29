@@ -1,12 +1,12 @@
 require 'rails_helper'
 
 RSpec.describe Category, type: :system do
-    user = User.new(id:1, name: 'Saeqa', email: 'saeqa@gmail.com', password: '123456', confirmed_at: Time.now)
+  user = User.new(id: 1, name: 'Saeqa', email: 'saeqa@gmail.com', password: '123456', confirmed_at: Time.now)
 
   group = Group.create!(user_id: user.id, name: 'test', icon: 'burger.png')
 
   subject do
-    Category.new(user: user, name: 'test', amount: 20)
+    Category.new(user:, name: 'test', amount: 20)
   end
 
   before do

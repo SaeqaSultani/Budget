@@ -13,5 +13,4 @@ RSpec.describe 'Transaction page', type: :feature do
     fill_in 'Name', with: @category.name
     click_button 'Add Category'
   end
-
 end

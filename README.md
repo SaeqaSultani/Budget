@@ -88,7 +88,7 @@
 
 <!-- Video -->
 ## :movie_camera: Video documentation
-[video](https://www.loom.com/share/5a9cb6b8e167470bbd5f634ed4cd6ebc)
+[video](https://www.loom.com/share/e33aa6cdacb3432bacf19edfc2487d9c)
 
 <!-- LIVE DEMO -->
 

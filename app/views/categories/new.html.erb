@@ -1,2 +1,13 @@
-<h1>Categories#new</h1>
-<p>Find me in app/views/categories/new.html.erb</p>
+<%= render "shared/navbar", {text:"Categories",path: root_path, visible:"invisible"} %>
+<div class="container mt-3">
+  <%= form_with model: @category, url:categories_path do |f| %>
+    <div class="form-group mb-3">
+      <%= f.text_field :name,  class:"form-control", Placeholder:"Name"%>
+    </div>
+    <div class="form-group mb-3">
+      <em class="text-muted">Add your icon url here</em>
+      <%= f.text_field :icon, class:"form-control", placeholder:"Icon" %>
+    </div>
+    <%= f.submit "Add Category",class:"btn btn-primary btn-sm" %>
+  </div>
+<% end %>

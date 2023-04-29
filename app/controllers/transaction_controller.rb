@@ -13,7 +13,6 @@ class TransactionController < ApplicationController
     @categories = current_user.groups.all
   end
 
-
   def create
     @transaction = Category.new(transaction_params)
     @transaction.user_id = current_user.id

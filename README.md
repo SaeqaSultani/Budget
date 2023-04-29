@@ -79,16 +79,16 @@
 
 <details>
 <summary>Screen Shots</summary>
-<img src="./screenshots/ss-1.png"/>
-<img src="./screenshots/ss-2.png"/>
-<img src="./screenshots/ss-3.png"/>
-<img src="./screenshots/ss-4.png"/>
-<img src="./screenshots/ss-5.png"/>
+<img src="./screenshots/1.png"/>
+<img src="./screenshots/2.png"/>
+<img src="./screenshots/3.png"/>
+<img src="./screenshots/4.png"/>
+<img src="./screenshots/5.png"/>
 </details>
 
 <!-- Video -->
 ## :movie_camera: Video documentation
-[video](https://drive.google.com/file/d/1J3jDFveZznVjx5uZs9z9lN_yW7bPMWUU/view?usp=sharing)
+[video](https://www.loom.com/share/5a9cb6b8e167470bbd5f634ed4cd6ebc)
 
 <!-- LIVE DEMO -->
 
@@ -121,7 +121,7 @@ Clone this repository to your desired folder:
 commands:
 
 ```sh
-  git clone git@github.com:aamirkhan2478/budget-app.git
+  git clone git@github.com:SaeqaSultani/Budget.git
 ```
 
 ### Install
@@ -163,10 +163,12 @@ command:
 
 > The collaborators of this project.
 
-👤 **Aamir Khan**
+👤 **Saeqa Sultani**
 
-- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/aamir-kh)
+- GitHub: [SaeqaSultani](https://github.com/SaeqaSultani)
+- Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
+- LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

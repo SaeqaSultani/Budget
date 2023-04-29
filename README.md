@@ -94,7 +94,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://my-budget-app.herokuapp.com/)
+- [Live Demo Link](https://saeqa-budget.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

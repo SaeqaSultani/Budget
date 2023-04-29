@@ -1,3 +1,5 @@
-<h1>Splash#index</h1>
-<p>Find me in app/views/splash/index.html.erb</p>
-  <%= button_to "logout", destroy_user_session_path , method: :delete, class: "btn btn-outline-secondary"  %>
+<% if user_signed_in? %>
+  <%= render "shared/categories" %>
+<% else %>
+  <%= render "shared/splash_screen" %>
+<% end %>

@@ -1,6 +1,6 @@
 RSpec.describe 'Category page', type: :feature do
   before :each do
-    @user1 = User.new(name: 'Saeqa', email: 'saeqa@gmail.com', password: '123456', confirmed_at: Time.now)
+    @user1 = User.new(name: 'Saeqa', email: 'saeqa@gmail.com', password: '123456')
     @user1.save
     visit new_user_session_path
     fill_in 'Email', with: @user1.email

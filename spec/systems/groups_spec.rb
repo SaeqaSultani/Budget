@@ -1,7 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe Group, type: :system do
-  user = User.new(id: 1, name: 'Saeqa', email: 'saeqa@gmail.com', password: '123456', confirmed_at: Time.now)
+  user = User.new(id: 1, name: 'Saeqa', email: 'saeqa@gmail.com', password: '123456')
 
   subject do
     Group.new(user_id: user.id, name: 'test', icon: 'burger.png')

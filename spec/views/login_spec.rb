@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.describe 'Log In page', type: :feature do
   before :each do
-    @user1 = User.new(name: 'saeqa', email: 'saeqa@gmail.com', password: '123456', confirmed_at: Time.now)
+    @user1 = User.new(name: 'saeqa', email: 'saeqa@gmail.com', password: '123456')
     @user1.save
     visit new_user_session_path
   end

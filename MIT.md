@@ -1,7 +1,10 @@
-## Copyright 2023, [Saeqa Sultani]
+## Copyright 2021, [Saeqa Sultani]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this [Budget] and associated documentation files, to deal in the [Budget] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [Budget], and to permit persons to whom the [Budget] is furnished to do so, subject to the following conditions:
+###### Please delete this line and the next one
+###### APP 2023 can be a webpage/website, a web app, a software and so on
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [Budget].
+Permission is hereby granted, free of charge, to any person obtaining a copy of this [Blog_App] and associated documentation files, to deal in the [Blog_App] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [Blog_App], and to permit persons to whom the [Blog_App] is furnished to do so, subject to the following conditions:
 
-THE [Budget] IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE [Budget] OR THE USE OR OTHER DEALINGS IN THE [Budget].
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [Blog_App].
+
+THE [Blog_App] IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE [Blog_App] OR THE USE OR OTHER DEALINGS IN THE [Blog_App].

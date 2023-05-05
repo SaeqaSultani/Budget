@@ -79,22 +79,22 @@
 
 <details>
 <summary>Screen Shots</summary>
-<img src="./screenshots/ss-1.png"/>
-<img src="./screenshots/ss-2.png"/>
-<img src="./screenshots/ss-3.png"/>
-<img src="./screenshots/ss-4.png"/>
-<img src="./screenshots/ss-5.png"/>
+<img src="./screenshots/1.png"/>
+<img src="./screenshots/2.png"/>
+<img src="./screenshots/3.png"/>
+<img src="./screenshots/4.png"/>
+<img src="./screenshots/5.png"/>
 </details>
 
 <!-- Video -->
 ## :movie_camera: Video documentation
-[video](https://drive.google.com/file/d/1J3jDFveZznVjx5uZs9z9lN_yW7bPMWUU/view?usp=sharing)
+[video](https://www.loom.com/share/c2e4b9b6ded5446c95289ceb9b678ceb)
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://my-budget-app.herokuapp.com/)
+- [Live Demo Link](https://saeqa-budget.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +121,7 @@ Clone this repository to your desired folder:
 commands:
 
 ```sh
-  git clone git@github.com:aamirkhan2478/budget-app.git
+  git clone git@github.com:SaeqaSultani/Budget.git
 ```
 
 ### Install
@@ -163,10 +163,12 @@ command:
 
 > The collaborators of this project.
 
-👤 **Aamir Khan**
+👤 **Saeqa Sultani**
 
-- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/aamir-kh)
+- GitHub: [SaeqaSultani](https://github.com/SaeqaSultani)
+- Twitter: [SaeqaSultani](https://twitter.com/SaeqaSultani)
+- LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,7 +188,7 @@ command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aamirkhan2478/my-blog/issues).
+Feel free to check the [issues page](https://github.com/SaeqaSultani/Budget/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,6 +228,6 @@ Original design idea by [Gregoire Vella on Behance](https://www.behance.net/greg
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/SaeqaSultani/Budget/blob/dev/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

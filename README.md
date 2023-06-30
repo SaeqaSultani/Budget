@@ -73,18 +73,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Screen Shots -->
 
-## :camera: Screen Shots
-
-<details>
-<summary>Screen Shots</summary>
-<img src="./screenshots/1.png"/>
-<img src="./screenshots/2.png"/>
-<img src="./screenshots/3.png"/>
-<img src="./screenshots/4.png"/>
-<img src="./screenshots/5.png"/>
-</details>
 
 <!-- Video -->
 ## :movie_camera: Video documentation
